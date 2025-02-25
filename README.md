@@ -12,6 +12,8 @@
 </div>
 
 ###
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -51,21 +53,10 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+###
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lizzard-development/lizzard-development/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Lizzard">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Lizzard&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
 
